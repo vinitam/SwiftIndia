@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [{
+                 "source": {
+                 "id": null,
+                 "name": "Yahoo.com"
+                 },
+                 "author": null,
+                 "title": "Suspect in Ocala, Florida school shooting: 'I want to be put away'",
+                 "description": null,
+                 "url": "https://www.yahoo.com/news/suspect-ocala-florida-school-shooting-162346592.html",
+                 "urlToImage": null,
+                 "publishedAt": "2018-04-22T03:57:02Z"
+                 }, {
+                 "source": {
+                 "id": null,
+                 "name": "Cbssports.com"
+                 },
+                 "author": "",
+                 "title": "A's lefty Sean Manaea blanks red-hot Red Sox for MLB's first no-hitter of 2018",
+                 "description": "The Red Sox were the hottest team in baseball going into the game",
+                 "url": "https://www.cbssports.com/mlb/news/as-lefty-sean-manaea-blanks-red-hot-red-sox-for-mlbs-first-no-hitter-of-2018/",
+                 "urlToImage": "https://sportshub.cbsistatic.com/i/r/2018/04/22/bb1ec2bd-b7a3-4da9-bf95-854db5c3accf/thumbnail/770x433/2016a3c1fef3f3031b5d3d9cce1534b7/usatsi-10799843.jpg",
+                 "publishedAt": "2018-04-22T03:24:00Z"
+                 }, {
+                 "source": {
+                 "id": null,
+                 "name": "Denverpost.com"
+                 },
+                 "author": null,
+                 "title": "Man killed while holding his 5-year-old daughter in random knife attack at California steakhouse",
+                 "description": null,
+                 "url": "https://www.denverpost.com/2018/04/21/man-killed-random-knife-attack-at-california-steakhouse/",
+                 "urlToImage": null,
+                 "publishedAt": "2018-04-22T02:53:22Z"
+                 }]
+}
